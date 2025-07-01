@@ -1,0 +1,88 @@
+crop,soil_type,disease
+Cotton,Black,Bacterial Blight
+Cotton,Black,Verticillium Wilt
+Cotton,Black,Aphids
+Rice,Loamy,Blast
+Rice,Loamy,Bacterial Leaf Blight
+Rice,Loamy,Brown Spot
+Wheat,Alluvial,Rust
+Wheat,Alluvial,Powdery Mildew
+Wheat,Alluvial,Loose Smut
+Bajra,Sandy,Downy Mildew
+Bajra,Sandy,Ergot
+Bajra,Sandy,Smut
+Rubber,Laterite,Powdery Mildew
+Rubber,Laterite,Abnormal Leaf Fall
+Rubber,Laterite,Pink Disease
+Millets,Red,Downy Mildew
+Millets,Red,Smut
+Millets,Red,Rust
+Groundnut,Black,Leaf Spot
+Groundnut,Black,Rust
+Groundnut,Black,Stem Rot
+Tea,Alluvial,Blister Blight
+Tea,Alluvial,Red Rust
+Tea,Alluvial,Thrips
+Maize,Alluvial,Common Rust
+Maize,Alluvial,Northern Corn Leaf Blight
+Maize,Alluvial,Stalk Rot
+Rice,Laterite,Blast
+Rice,Laterite,Brown Spot
+Rice,Laterite,Sheath Blight
+Jowar,Red,Grain Smut
+Jowar,Red,Downy Mildew
+Jowar,Red,Anthracnose
+Tobacco,Black,Tobacco Mosaic Virus
+Tobacco,Black,Black Shank
+Tobacco,Black,Frog-eye Leaf Spot
+Barley,Loamy,Powdery Mildew
+Barley,Loamy,Net Blotch
+Barley,Loamy,Barley Yellow Dwarf Virus
+Jute,Alluvial,Stem Rot
+Jute,Alluvial,Root Rot
+Jute,Alluvial,Anthracnose
+Soybean,Black,Rust
+Soybean,Black,Anthracnose
+Soybean,Black,Aphids
+Apple,Mountain,Scab
+Apple,Mountain,Powdery Mildew
+Apple,Mountain,Fire Blight
+Pulses,Red,Rust
+Pulses,Red,Powdery Mildew
+Pulses,Red,Wilt
+Maize,Laterite,Rust
+Maize,Laterite,Stem Borer
+Maize,Laterite,Leaf Blight
+Cashew,Laterite,Anthracnose
+Cashew,Laterite,Tea Mosquito Bug
+Cashew,Laterite,Pink Disease
+Millets,Red,Rust
+Millets,Red,Smut
+Millets,Red,Blast
+Cardamom,Mountain,Katte Disease
+Cardamom,Mountain,Azhukal Disease
+Cardamom,Mountain,Thrips
+Rice,Alluvial,Blast
+Rice,Alluvial,Bacterial Leaf Blight
+Rice,Alluvial,Rice Tungro Virus
+Ginger,Hilly,Soft Rot
+Ginger,Hilly,Bacterial Wilt
+Ginger,Hilly,Leaf Spot
+Chili,Hilly,Anthracnose
+Chili,Hilly,Leaf Curl Virus
+Chili,Hilly,Dieback
+Turmeric,Hilly,Leaf Blotch
+Turmeric,Hilly,Rhizome Rot
+Turmeric,Hilly,Leaf Spot
+Pineapple,Hilly,Mealybug Wilt
+Pineapple,Hilly,Heart Rot
+Pineapple,Hilly,Fruitlet Core Rot
+Orange,Hilly,Citrus Canker
+Orange,Hilly,Gummosis
+Orange,Hilly,Greening Disease
+Vegetables,Alluvial,Damping-off
+Vegetables,Alluvial,Powdery Mildew
+Vegetables,Alluvial,Aphids
+Barley,Sandy,Smut
+Barley,Sandy,Rust
+Barley,Sandy,Powdery Mildew
