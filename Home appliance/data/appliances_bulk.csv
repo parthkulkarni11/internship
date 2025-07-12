@@ -1,0 +1,1001 @@
+appliance_type,brand,capacity_l,star_rating,features,price
+Fridge,LG,225.0,3.0,Side-by-Side,22732
+Air Cooler,Voltas,,,Tower,5159
+Air Cooler,Kenstar,,,Portable,6433
+TV,Samsung,,4.0,Smart,32531
+Fridge,Godrej,250.0,5.0,Single Door,33786
+Washing Machine,Whirlpool,5.0,2.0,Top Load,20624
+TV,LG,,,HD Ready,24813
+Air Conditioner,Daikin,,3.0,Inverter,40817
+Washing Machine,IFB,6.0,3.0,Semi-Automatic,27442
+Washing Machine,Samsung,9.0,5.0,Semi-Automatic,30053
+Washing Machine,IFB,5.0,,Front Load,16584
+Air Cooler,Kenstar,,5.0,Portable,12945
+TV,Samsung,,4.0,HD Ready,32340
+Fridge,Whirlpool,411.0,5.0,Side-by-Side,23279
+Fridge,Voltas,109.0,4.0,Double Door,17651
+Air Conditioner,LG,,4.0,Split,58026
+Air Conditioner,Daikin,,5.0,Window,51899
+TV,Mi,,,4K,37566
+Washing Machine,LG,6.0,,Top Load,12003
+TV,Mi,,5.0,Android,47283
+Air Cooler,Symphony,,,Tower,11409
+Fridge,LG,155.0,3.0,Double Door,21721
+Air Cooler,Symphony,,4.0,Portable,5797
+Fridge,Samsung,348.0,4.0,Single Door,30325
+Fridge,Godrej,246.0,4.0,Double Door,28076
+Washing Machine,LG,5.0,5.0,Semi-Automatic,22335
+Air Conditioner,Daikin,,5.0,Split,49952
+Air Conditioner,Daikin,,5.0,Inverter,47561
+TV,LG,,2.0,HD Ready,36465
+Fridge,LG,388.0,5.0,Double Door,16818
+TV,Samsung,,3.0,Android,35560
+Air Conditioner,Voltas,,,Inverter,42002
+Air Conditioner,Daikin,,3.0,Inverter,56044
+Fridge,LG,241.0,4.0,Side-by-Side,15105
+Air Cooler,Kenstar,,4.0,Window,13356
+TV,TCL,,4.0,Android,37757
+Washing Machine,LG,8.0,5.0,Front Load,18674
+Air Cooler,Voltas,,3.0,Tower,5174
+Fridge,Godrej,335.0,2.0,Single Door,27160
+Washing Machine,Godrej,5.0,3.0,Front Load,25353
+Fridge,LG,397.0,2.0,Double Door,24682
+TV,Mi,,4.0,Smart,45368
+Air Conditioner,Daikin,,4.0,Window,44758
+TV,Mi,,4.0,HD Ready,28346
+Washing Machine,IFB,8.0,3.0,Semi-Automatic,11773
+Air Conditioner,Carrier,,3.0,Inverter,57261
+Washing Machine,LG,10.0,5.0,Front Load,33046
+TV,LG,,2.0,Android,45835
+Air Conditioner,Daikin,,4.0,Inverter,33173
+Air Cooler,Symphony,,5.0,Tower,3534
+Air Cooler,Kenstar,,5.0,Window,11665
+Washing Machine,Godrej,6.0,3.0,Front Load,20210
+Air Cooler,Voltas,,3.0,Window,10415
+Washing Machine,Samsung,10.0,2.0,Front Load,14326
+Air Cooler,Bajaj,,2.0,Tower,7256
+TV,Sony,,4.0,4K,31005
+Air Cooler,Blue Star,,4.0,Window,7798
+Air Cooler,Symphony,,2.0,Portable,5805
+TV,Mi,,4.0,HD Ready,18169
+TV,LG,,,Smart,14852
+Air Cooler,Voltas,,2.0,Window,6934
+Washing Machine,Whirlpool,5.0,5.0,Top Load,29178
+Air Conditioner,Daikin,,3.0,Split,53783
+TV,Samsung,,,HD Ready,44308
+Washing Machine,Godrej,10.0,5.0,Top Load,33564
+Air Conditioner,Voltas,,2.0,Window,49214
+Fridge,Godrej,349.0,2.0,Double Door,23555
+Air Conditioner,Voltas,,,Inverter,41577
+Air Cooler,Bajaj,,,Portable,7705
+Air Conditioner,Voltas,,5.0,Window,53845
+TV,Sony,,,Android,28158
+Air Cooler,Blue Star,,5.0,Window,5461
+TV,Samsung,,3.0,Android,32565
+Fridge,Voltas,345.0,4.0,Double Door,31287
+Air Cooler,Voltas,,4.0,Tower,6807
+Air Conditioner,Voltas,,2.0,Split,49773
+Air Cooler,Blue Star,,4.0,Window,5187
+Washing Machine,Whirlpool,6.0,,Semi-Automatic,17368
+Air Cooler,Kenstar,,3.0,Portable,11253
+Washing Machine,Whirlpool,10.0,5.0,Semi-Automatic,26582
+Washing Machine,Whirlpool,5.0,,Top Load,21998
+TV,Mi,,5.0,HD Ready,18084
+TV,Samsung,,2.0,Smart,17761
+Air Cooler,Blue Star,,5.0,Tower,10372
+TV,Sony,,2.0,Smart,48803
+Air Conditioner,LG,,,Window,60102
+Fridge,Voltas,127.0,4.0,Double Door,22258
+Fridge,Samsung,167.0,5.0,Double Door,26424
+Air Conditioner,Daikin,,2.0,Inverter,41171
+Fridge,Godrej,355.0,2.0,Single Door,39900
+Air Cooler,Bajaj,,4.0,Tower,4367
+Air Cooler,Blue Star,,3.0,Window,5640
+Air Cooler,Blue Star,,5.0,Portable,5868
+Air Cooler,Voltas,,4.0,Portable,9632
+Air Conditioner,Carrier,,,Window,34126
+Washing Machine,LG,7.0,3.0,Front Load,36189
+Air Conditioner,Blue Star,,4.0,Window,40966
+Fridge,Godrej,327.0,,Single Door,19779
+Fridge,Whirlpool,320.0,3.0,Double Door,18466
+Washing Machine,LG,9.0,4.0,Semi-Automatic,19779
+TV,Mi,,,HD Ready,27224
+TV,TCL,,4.0,HD Ready,26491
+Washing Machine,Godrej,9.0,3.0,Semi-Automatic,34037
+Fridge,Voltas,410.0,,Side-by-Side,38314
+Washing Machine,IFB,10.0,2.0,Front Load,30696
+Air Conditioner,Voltas,,2.0,Inverter,36700
+Air Conditioner,Voltas,,5.0,Inverter,48492
+Fridge,Godrej,486.0,2.0,Single Door,23630
+Air Cooler,Voltas,,5.0,Portable,7685
+Washing Machine,Godrej,9.0,5.0,Top Load,33715
+TV,Mi,,2.0,Smart,46245
+Air Conditioner,Daikin,,4.0,Window,52871
+Fridge,Godrej,243.0,4.0,Side-by-Side,15893
+Washing Machine,Whirlpool,9.0,3.0,Top Load,22530
+Fridge,Godrej,428.0,2.0,Single Door,34951
+Washing Machine,IFB,9.0,,Top Load,32385
+Washing Machine,IFB,6.0,3.0,Top Load,30408
+Fridge,Samsung,221.0,3.0,Single Door,32509
+Washing Machine,Godrej,10.0,,Semi-Automatic,28036
+Fridge,Godrej,414.0,2.0,Side-by-Side,17055
+Fridge,LG,318.0,4.0,Double Door,39165
+Fridge,Whirlpool,133.0,2.0,Side-by-Side,18342
+Air Cooler,Kenstar,,4.0,Window,11683
+Washing Machine,Godrej,8.0,4.0,Front Load,15839
+TV,Sony,,4.0,Android,22158
+TV,LG,,5.0,Smart,43477
+Fridge,Whirlpool,280.0,3.0,Side-by-Side,19083
+Air Cooler,Symphony,,3.0,Tower,10524
+TV,Samsung,,3.0,Android,15719
+Air Cooler,Voltas,,,Tower,9021
+TV,LG,,3.0,HD Ready,19211
+Air Conditioner,LG,,,Inverter,53665
+TV,LG,,3.0,Smart,45077
+Washing Machine,Godrej,5.0,,Semi-Automatic,21061
+TV,Samsung,,4.0,Smart,39966
+Air Conditioner,Voltas,,4.0,Split,45874
+Air Cooler,Kenstar,,4.0,Portable,9603
+Air Conditioner,Blue Star,,3.0,Inverter,51389
+Fridge,Godrej,213.0,3.0,Double Door,26086
+Air Conditioner,Daikin,,3.0,Window,36638
+Air Conditioner,Daikin,,,Inverter,47720
+TV,LG,,,4K,34286
+Air Conditioner,LG,,4.0,Window,30668
+Fridge,Voltas,296.0,5.0,Side-by-Side,29478
+Air Conditioner,Blue Star,,2.0,Inverter,58712
+Washing Machine,LG,8.0,4.0,Top Load,30888
+TV,Mi,,3.0,4K,35318
+Air Conditioner,Blue Star,,3.0,Window,47294
+Air Cooler,Symphony,,,Window,3475
+Air Cooler,Kenstar,,,Portable,7384
+Washing Machine,Samsung,7.0,,Top Load,30224
+Air Conditioner,Daikin,,4.0,Inverter,27545
+TV,LG,,5.0,4K,29602
+Air Cooler,Symphony,,5.0,Portable,10953
+Washing Machine,Samsung,7.0,2.0,Semi-Automatic,33923
+Air Conditioner,LG,,,Window,52045
+Washing Machine,Godrej,8.0,,Front Load,24572
+Fridge,Whirlpool,263.0,,Single Door,16402
+TV,Mi,,4.0,Android,19075
+Washing Machine,IFB,9.0,5.0,Semi-Automatic,14142
+Fridge,Samsung,334.0,5.0,Double Door,17646
+Air Conditioner,Carrier,,2.0,Split,51067
+Fridge,Voltas,369.0,,Double Door,34405
+Air Cooler,Voltas,,4.0,Window,3093
+Fridge,Voltas,168.0,3.0,Side-by-Side,17300
+Air Cooler,Symphony,,,Tower,5345
+Fridge,Whirlpool,303.0,5.0,Double Door,31965
+TV,Samsung,,3.0,HD Ready,40603
+Washing Machine,Godrej,7.0,4.0,Semi-Automatic,20502
+Air Conditioner,Daikin,,3.0,Inverter,44912
+Air Conditioner,Blue Star,,4.0,Split,43612
+Fridge,LG,286.0,4.0,Side-by-Side,33288
+Air Conditioner,Blue Star,,2.0,Split,51979
+Air Conditioner,LG,,2.0,Inverter,34191
+TV,Mi,,3.0,HD Ready,26777
+Air Conditioner,LG,,3.0,Window,36620
+Washing Machine,LG,10.0,2.0,Front Load,15128
+Air Conditioner,Voltas,,2.0,Window,39415
+Washing Machine,Samsung,7.0,,Front Load,31258
+Fridge,LG,467.0,4.0,Double Door,39927
+Air Conditioner,LG,,3.0,Split,35006
+Air Conditioner,Carrier,,2.0,Split,34273
+Washing Machine,Samsung,7.0,2.0,Front Load,21908
+Air Conditioner,Voltas,,3.0,Split,36917
+Air Conditioner,Carrier,,5.0,Window,39956
+Air Conditioner,Blue Star,,,Inverter,55653
+Air Cooler,Blue Star,,,Portable,9768
+TV,TCL,,3.0,Android,41239
+Air Conditioner,LG,,2.0,Window,32628
+Fridge,Whirlpool,314.0,5.0,Double Door,24260
+Washing Machine,Godrej,8.0,4.0,Semi-Automatic,28367
+Air Cooler,Symphony,,5.0,Tower,10278
+Air Conditioner,LG,,4.0,Split,27605
+Fridge,Voltas,285.0,2.0,Side-by-Side,32972
+Air Conditioner,Voltas,,5.0,Inverter,47506
+TV,LG,,5.0,Android,18891
+TV,Mi,,2.0,4K,36400
+TV,TCL,,5.0,HD Ready,34155
+TV,Samsung,,5.0,4K,18707
+Air Conditioner,Carrier,,,Split,39001
+Air Conditioner,LG,,,Split,38042
+Air Conditioner,Carrier,,,Window,58980
+TV,LG,,5.0,4K,34246
+Washing Machine,Whirlpool,6.0,3.0,Semi-Automatic,21435
+TV,TCL,,3.0,HD Ready,41793
+Washing Machine,Whirlpool,10.0,3.0,Top Load,22225
+Washing Machine,IFB,10.0,5.0,Front Load,14705
+Air Conditioner,Daikin,,2.0,Inverter,32379
+Washing Machine,LG,8.0,2.0,Semi-Automatic,26902
+TV,Samsung,,5.0,Smart,28298
+Fridge,Godrej,483.0,2.0,Double Door,26287
+TV,Sony,,5.0,4K,46984
+Fridge,Whirlpool,431.0,4.0,Single Door,23755
+Washing Machine,Samsung,8.0,4.0,Semi-Automatic,21501
+Washing Machine,Godrej,5.0,2.0,Front Load,26475
+TV,Sony,,3.0,Smart,18327
+Washing Machine,Godrej,10.0,5.0,Semi-Automatic,35136
+Washing Machine,Samsung,6.0,4.0,Top Load,32950
+Air Conditioner,Daikin,,5.0,Split,31875
+Air Conditioner,LG,,5.0,Split,48002
+Air Conditioner,Blue Star,,2.0,Split,53256
+Air Conditioner,Blue Star,,5.0,Window,49990
+Fridge,Samsung,123.0,,Side-by-Side,30711
+Fridge,Godrej,309.0,3.0,Single Door,20734
+Air Cooler,Bajaj,,5.0,Tower,6090
+Washing Machine,Samsung,7.0,,Top Load,35441
+Washing Machine,Samsung,6.0,3.0,Front Load,18694
+Fridge,Samsung,151.0,,Single Door,35495
+Fridge,Godrej,376.0,2.0,Double Door,21078
+Air Conditioner,Voltas,,5.0,Inverter,39179
+TV,Sony,,5.0,Smart,44979
+TV,Mi,,4.0,HD Ready,38658
+Washing Machine,Whirlpool,8.0,2.0,Semi-Automatic,28977
+Air Cooler,Symphony,,2.0,Portable,9272
+Washing Machine,LG,10.0,4.0,Front Load,33051
+Air Conditioner,Carrier,,4.0,Split,39393
+Fridge,Godrej,460.0,5.0,Single Door,21260
+Air Cooler,Kenstar,,3.0,Window,9550
+Air Cooler,Blue Star,,3.0,Tower,4458
+Air Conditioner,Carrier,,4.0,Inverter,50226
+Washing Machine,Godrej,7.0,3.0,Semi-Automatic,34028
+TV,LG,,5.0,Android,20285
+Fridge,LG,170.0,4.0,Single Door,34561
+Air Conditioner,Blue Star,,,Window,60138
+Air Cooler,Voltas,,5.0,Tower,12530
+Washing Machine,LG,6.0,5.0,Top Load,17383
+Air Cooler,Voltas,,4.0,Portable,8591
+Fridge,LG,293.0,4.0,Double Door,31448
+Air Cooler,Bajaj,,3.0,Window,5573
+Fridge,LG,378.0,3.0,Side-by-Side,31529
+Washing Machine,IFB,5.0,4.0,Top Load,16895
+Washing Machine,LG,5.0,3.0,Semi-Automatic,26800
+Air Conditioner,Carrier,,3.0,Window,39408
+Air Conditioner,Blue Star,,2.0,Window,28153
+TV,LG,,2.0,4K,23844
+TV,Mi,,3.0,HD Ready,27561
+Air Conditioner,Carrier,,,Window,48296
+TV,Mi,,,4K,24681
+TV,Sony,,4.0,HD Ready,42713
+Air Cooler,Voltas,,3.0,Portable,4641
+Washing Machine,Whirlpool,7.0,4.0,Top Load,24211
+Air Conditioner,Daikin,,3.0,Window,45108
+Air Cooler,Kenstar,,3.0,Tower,5290
+Air Conditioner,Daikin,,5.0,Inverter,45496
+Fridge,Godrej,171.0,4.0,Side-by-Side,36682
+Air Cooler,Bajaj,,4.0,Tower,11091
+TV,TCL,,,Smart,38571
+Air Cooler,Blue Star,,,Portable,11651
+Air Conditioner,Carrier,,4.0,Split,45707
+Air Cooler,Voltas,,4.0,Portable,7975
+Washing Machine,IFB,8.0,3.0,Front Load,25586
+Fridge,LG,431.0,3.0,Single Door,17297
+Air Conditioner,Daikin,,5.0,Window,37838
+Air Cooler,Bajaj,,5.0,Tower,10256
+Washing Machine,Samsung,9.0,,Front Load,28399
+Air Cooler,Voltas,,4.0,Portable,4312
+Air Cooler,Kenstar,,3.0,Tower,4181
+Fridge,Samsung,361.0,2.0,Double Door,26489
+Air Cooler,Kenstar,,2.0,Window,7513
+Air Cooler,Kenstar,,3.0,Tower,9964
+Air Cooler,Bajaj,,4.0,Window,6055
+Fridge,Samsung,240.0,,Double Door,22683
+Air Cooler,Kenstar,,,Window,12992
+Air Cooler,Kenstar,,4.0,Tower,7719
+TV,Sony,,4.0,Smart,38501
+Washing Machine,Samsung,9.0,,Top Load,28766
+TV,Sony,,5.0,HD Ready,19758
+Washing Machine,Samsung,6.0,3.0,Top Load,34523
+TV,Mi,,4.0,4K,42246
+TV,Mi,,3.0,4K,46303
+Air Conditioner,Blue Star,,4.0,Split,47376
+Air Conditioner,Daikin,,4.0,Inverter,53185
+Fridge,Samsung,100.0,4.0,Double Door,30599
+TV,Samsung,,3.0,HD Ready,26409
+TV,LG,,,4K,46679
+Washing Machine,IFB,5.0,4.0,Semi-Automatic,35635
+Washing Machine,Godrej,8.0,2.0,Top Load,16964
+TV,LG,,2.0,4K,14993
+Washing Machine,Samsung,10.0,5.0,Front Load,20200
+Fridge,Voltas,279.0,4.0,Side-by-Side,29710
+Fridge,Samsung,407.0,5.0,Side-by-Side,37472
+Air Conditioner,Carrier,,2.0,Inverter,57012
+Fridge,Samsung,136.0,5.0,Double Door,31894
+Air Conditioner,Blue Star,,5.0,Window,27481
+TV,LG,,,Smart,48710
+Air Cooler,Voltas,,5.0,Window,6066
+Washing Machine,Samsung,8.0,3.0,Semi-Automatic,33773
+Washing Machine,LG,8.0,,Top Load,25345
+Fridge,Samsung,183.0,,Side-by-Side,29949
+TV,LG,,,HD Ready,31901
+Air Conditioner,LG,,4.0,Window,34353
+Fridge,Voltas,216.0,,Side-by-Side,38274
+Fridge,Godrej,176.0,4.0,Double Door,19880
+Air Cooler,Blue Star,,,Portable,7232
+Air Conditioner,LG,,,Window,52965
+TV,LG,,5.0,HD Ready,31320
+Air Cooler,Symphony,,5.0,Window,3609
+TV,Samsung,,,HD Ready,20787
+Air Cooler,Bajaj,,2.0,Tower,12385
+TV,Mi,,5.0,Smart,40625
+Washing Machine,Samsung,7.0,3.0,Front Load,34074
+Washing Machine,LG,9.0,2.0,Top Load,17000
+TV,Mi,,5.0,Smart,36696
+Fridge,LG,460.0,3.0,Single Door,36442
+Fridge,Samsung,362.0,4.0,Double Door,14731
+Air Cooler,Bajaj,,5.0,Window,3338
+Fridge,Samsung,305.0,2.0,Single Door,25286
+Fridge,Samsung,165.0,4.0,Side-by-Side,16220
+Washing Machine,IFB,8.0,4.0,Front Load,23420
+Washing Machine,Whirlpool,6.0,4.0,Front Load,31810
+Air Conditioner,Blue Star,,,Split,58479
+Air Conditioner,LG,,3.0,Window,45666
+TV,LG,,3.0,Smart,18303
+Air Conditioner,Daikin,,,Split,29793
+Washing Machine,IFB,6.0,3.0,Front Load,20632
+TV,TCL,,5.0,Android,33409
+Fridge,LG,212.0,5.0,Single Door,17412
+Air Conditioner,Daikin,,3.0,Split,35454
+Fridge,Voltas,291.0,,Double Door,37322
+TV,LG,,4.0,Android,27142
+Air Conditioner,Daikin,,3.0,Window,25867
+Air Conditioner,Voltas,,2.0,Inverter,40017
+TV,LG,,3.0,Smart,28176
+TV,Samsung,,,Smart,27512
+Air Cooler,Blue Star,,4.0,Window,3965
+Fridge,Whirlpool,233.0,3.0,Single Door,17090
+Fridge,Voltas,404.0,3.0,Single Door,35594
+Air Cooler,Symphony,,,Tower,12554
+TV,Sony,,,Android,46651
+Fridge,Godrej,438.0,3.0,Single Door,33587
+Washing Machine,Samsung,5.0,3.0,Semi-Automatic,15787
+TV,Samsung,,2.0,4K,26305
+Air Cooler,Bajaj,,2.0,Portable,5320
+TV,TCL,,5.0,4K,42324
+Air Conditioner,Blue Star,,2.0,Inverter,58244
+Air Conditioner,Carrier,,5.0,Inverter,40197
+Washing Machine,Samsung,5.0,4.0,Top Load,25575
+Fridge,LG,303.0,5.0,Double Door,34845
+Fridge,Voltas,500.0,5.0,Side-by-Side,29069
+Air Conditioner,Carrier,,,Split,41878
+Air Cooler,Kenstar,,4.0,Window,3514
+Air Cooler,Blue Star,,2.0,Window,8485
+TV,Sony,,4.0,HD Ready,33795
+Air Cooler,Kenstar,,,Window,12489
+TV,Samsung,,,Android,43037
+Air Conditioner,LG,,2.0,Split,30073
+TV,LG,,3.0,HD Ready,22643
+Air Cooler,Kenstar,,2.0,Portable,10071
+TV,Samsung,,,HD Ready,29820
+Washing Machine,Whirlpool,9.0,4.0,Semi-Automatic,35005
+Washing Machine,IFB,7.0,2.0,Top Load,23497
+TV,Mi,,2.0,HD Ready,47150
+Air Conditioner,Voltas,,5.0,Inverter,28560
+TV,Sony,,3.0,HD Ready,50200
+Air Conditioner,Blue Star,,3.0,Inverter,43715
+Air Cooler,Bajaj,,,Portable,8102
+Washing Machine,IFB,5.0,3.0,Top Load,16872
+Fridge,Samsung,481.0,2.0,Double Door,25460
+TV,Mi,,4.0,Smart,19716
+Fridge,Godrej,311.0,3.0,Side-by-Side,16447
+Air Conditioner,Blue Star,,3.0,Split,46137
+Fridge,LG,207.0,3.0,Double Door,38472
+Air Conditioner,Blue Star,,4.0,Inverter,27658
+Washing Machine,Whirlpool,9.0,3.0,Top Load,13427
+TV,Sony,,,Android,36435
+Fridge,Whirlpool,472.0,4.0,Double Door,33685
+Washing Machine,Whirlpool,6.0,3.0,Front Load,26196
+Washing Machine,Samsung,9.0,,Semi-Automatic,17073
+TV,TCL,,5.0,Smart,16000
+Air Cooler,Bajaj,,5.0,Tower,5599
+Air Cooler,Voltas,,5.0,Window,9957
+Air Conditioner,LG,,,Window,61269
+Washing Machine,Whirlpool,7.0,4.0,Semi-Automatic,12645
+Washing Machine,LG,5.0,,Top Load,35114
+Air Conditioner,LG,,,Inverter,42210
+Fridge,LG,248.0,,Single Door,25192
+Fridge,LG,268.0,2.0,Single Door,28053
+TV,LG,,4.0,Smart,40935
+Washing Machine,LG,6.0,,Top Load,26135
+Air Cooler,Blue Star,,,Window,7926
+Fridge,Whirlpool,106.0,3.0,Side-by-Side,38213
+Air Conditioner,Carrier,,4.0,Split,26623
+Washing Machine,IFB,6.0,4.0,Front Load,30083
+TV,Samsung,,5.0,Android,21447
+Air Conditioner,Blue Star,,4.0,Split,31378
+Air Cooler,Voltas,,5.0,Window,12009
+Air Cooler,Blue Star,,,Portable,7419
+Fridge,Samsung,281.0,3.0,Single Door,33950
+Washing Machine,Godrej,5.0,4.0,Top Load,33826
+Air Cooler,Symphony,,2.0,Portable,4891
+Air Conditioner,Carrier,,4.0,Split,59513
+Washing Machine,IFB,5.0,2.0,Top Load,33259
+Air Conditioner,Daikin,,4.0,Window,52516
+Air Conditioner,Voltas,,5.0,Inverter,39299
+TV,Sony,,2.0,Android,38845
+Air Conditioner,Voltas,,,Window,27527
+TV,LG,,3.0,HD Ready,33811
+Air Cooler,Voltas,,5.0,Window,8104
+TV,Samsung,,4.0,4K,17356
+Air Conditioner,Blue Star,,3.0,Split,37423
+Fridge,Samsung,161.0,5.0,Single Door,25892
+Washing Machine,IFB,7.0,,Front Load,17516
+Fridge,Voltas,351.0,3.0,Side-by-Side,33917
+Washing Machine,Samsung,9.0,,Semi-Automatic,24535
+Washing Machine,Whirlpool,7.0,3.0,Front Load,30728
+TV,Mi,,5.0,Android,35612
+TV,TCL,,,HD Ready,43414
+Washing Machine,Whirlpool,5.0,,Semi-Automatic,28491
+Washing Machine,Godrej,9.0,2.0,Top Load,26141
+TV,Samsung,,,Smart,19285
+Air Cooler,Bajaj,,4.0,Window,5565
+Air Conditioner,LG,,5.0,Inverter,31142
+TV,TCL,,3.0,Smart,17204
+Washing Machine,Samsung,9.0,4.0,Semi-Automatic,34697
+Fridge,Voltas,163.0,2.0,Side-by-Side,15616
+Washing Machine,Whirlpool,10.0,4.0,Top Load,17193
+TV,LG,,2.0,Smart,45980
+Fridge,Whirlpool,471.0,2.0,Single Door,34773
+Washing Machine,LG,5.0,5.0,Front Load,22937
+TV,TCL,,5.0,Android,25059
+Washing Machine,Godrej,6.0,3.0,Front Load,22333
+TV,Mi,,2.0,Smart,28852
+Fridge,LG,397.0,,Side-by-Side,34195
+Air Conditioner,Blue Star,,2.0,Inverter,55506
+Air Conditioner,LG,,3.0,Window,34026
+Washing Machine,Samsung,10.0,5.0,Semi-Automatic,28961
+Air Cooler,Symphony,,3.0,Tower,11074
+Air Cooler,Bajaj,,,Tower,6856
+Air Cooler,Blue Star,,,Window,10996
+TV,Mi,,5.0,4K,42144
+Air Conditioner,Voltas,,2.0,Split,53494
+TV,Samsung,,4.0,4K,24565
+Fridge,Samsung,182.0,5.0,Side-by-Side,17643
+Washing Machine,Whirlpool,8.0,5.0,Top Load,29355
+Air Cooler,Kenstar,,4.0,Portable,5062
+Washing Machine,Whirlpool,9.0,5.0,Front Load,17974
+Fridge,Samsung,450.0,5.0,Side-by-Side,30447
+Air Conditioner,Carrier,,5.0,Split,26751
+Air Cooler,Kenstar,,3.0,Portable,7993
+Air Cooler,Blue Star,,5.0,Window,12544
+Fridge,Whirlpool,309.0,5.0,Side-by-Side,21929
+Air Conditioner,LG,,2.0,Window,53591
+Air Conditioner,Voltas,,5.0,Window,38041
+Air Conditioner,Carrier,,2.0,Window,45462
+TV,Mi,,,Android,25685
+Air Cooler,Blue Star,,5.0,Window,4423
+Air Conditioner,Blue Star,,,Split,51999
+Air Cooler,Kenstar,,5.0,Window,5669
+Fridge,Samsung,246.0,5.0,Side-by-Side,21900
+Washing Machine,LG,10.0,2.0,Front Load,16605
+Air Cooler,Bajaj,,2.0,Window,7084
+TV,LG,,4.0,Android,32184
+Fridge,Voltas,250.0,5.0,Single Door,26983
+Air Cooler,Bajaj,,4.0,Window,10522
+Fridge,Whirlpool,424.0,4.0,Single Door,24134
+TV,TCL,,3.0,Smart,41415
+Washing Machine,Godrej,6.0,3.0,Front Load,21836
+Washing Machine,Samsung,7.0,2.0,Semi-Automatic,18148
+Fridge,LG,414.0,4.0,Single Door,15759
+TV,Mi,,4.0,HD Ready,39296
+Air Conditioner,Blue Star,,5.0,Window,56961
+Fridge,Voltas,452.0,3.0,Double Door,14607
+TV,TCL,,2.0,HD Ready,44643
+Air Cooler,Bajaj,,4.0,Tower,10724
+Washing Machine,IFB,5.0,2.0,Semi-Automatic,19648
+Washing Machine,Samsung,6.0,,Front Load,29321
+TV,Mi,,3.0,HD Ready,27037
+TV,Mi,,4.0,Smart,36694
+Air Cooler,Voltas,,5.0,Portable,6994
+Air Conditioner,Blue Star,,4.0,Inverter,36048
+Washing Machine,Whirlpool,9.0,5.0,Front Load,13271
+TV,Sony,,3.0,HD Ready,38495
+Washing Machine,Samsung,10.0,2.0,Top Load,32376
+Air Cooler,Voltas,,,Tower,10637
+Fridge,LG,179.0,5.0,Double Door,16775
+TV,Mi,,2.0,Android,38298
+Air Conditioner,Voltas,,4.0,Inverter,53650
+Air Conditioner,Voltas,,4.0,Window,51078
+Washing Machine,Whirlpool,9.0,,Top Load,16657
+Fridge,Godrej,104.0,3.0,Double Door,27876
+Air Cooler,Kenstar,,4.0,Portable,8276
+Fridge,Godrej,364.0,2.0,Side-by-Side,36405
+TV,Mi,,,Android,21346
+Air Conditioner,Blue Star,,3.0,Split,30857
+TV,LG,,,4K,15365
+Air Cooler,Blue Star,,3.0,Portable,2543
+TV,Mi,,5.0,Smart,29888
+Washing Machine,Godrej,10.0,2.0,Front Load,19253
+Washing Machine,Godrej,7.0,3.0,Front Load,31653
+Air Cooler,Blue Star,,3.0,Tower,6195
+Fridge,Samsung,161.0,5.0,Double Door,28788
+Air Conditioner,Daikin,,,Window,27179
+TV,LG,,2.0,Smart,35848
+Air Cooler,Blue Star,,2.0,Window,6605
+Air Conditioner,Daikin,,3.0,Inverter,29688
+Washing Machine,Godrej,9.0,3.0,Front Load,27884
+Washing Machine,LG,9.0,3.0,Semi-Automatic,21285
+Air Conditioner,Blue Star,,2.0,Inverter,31451
+Fridge,LG,116.0,2.0,Single Door,19751
+Air Conditioner,Blue Star,,4.0,Inverter,27667
+Washing Machine,Godrej,10.0,4.0,Top Load,25199
+Air Conditioner,Voltas,,,Inverter,29778
+Washing Machine,IFB,6.0,2.0,Front Load,34580
+Fridge,Voltas,459.0,4.0,Double Door,37050
+Air Cooler,Kenstar,,2.0,Portable,10220
+Air Cooler,Blue Star,,2.0,Window,8730
+Air Cooler,Voltas,,,Window,3239
+TV,LG,,3.0,Android,46660
+Air Cooler,Blue Star,,2.0,Tower,8139
+TV,Samsung,,5.0,4K,36278
+Air Conditioner,LG,,3.0,Inverter,30439
+TV,Sony,,4.0,4K,14997
+Air Conditioner,LG,,5.0,Window,29069
+Air Cooler,Bajaj,,5.0,Window,8001
+TV,Samsung,,5.0,4K,32261
+Air Cooler,Symphony,,4.0,Tower,10581
+Fridge,Whirlpool,450.0,3.0,Double Door,33370
+TV,LG,,3.0,HD Ready,37723
+Fridge,Samsung,179.0,3.0,Single Door,41715
+Air Conditioner,Daikin,,,Window,53972
+TV,LG,,2.0,Android,24650
+Air Conditioner,LG,,2.0,Window,56152
+Fridge,LG,439.0,3.0,Double Door,38182
+Air Cooler,Symphony,,5.0,Portable,3256
+Air Conditioner,Blue Star,,,Inverter,56719
+Washing Machine,LG,7.0,3.0,Front Load,23231
+Fridge,Whirlpool,384.0,,Double Door,24871
+Washing Machine,LG,9.0,4.0,Semi-Automatic,32414
+Washing Machine,Godrej,7.0,5.0,Front Load,30146
+Air Conditioner,Daikin,,3.0,Split,29726
+Air Conditioner,LG,,3.0,Split,51193
+Air Cooler,Blue Star,,2.0,Tower,7814
+Washing Machine,Samsung,7.0,,Semi-Automatic,36014
+Air Conditioner,Blue Star,,3.0,Inverter,34524
+Washing Machine,LG,7.0,,Front Load,18017
+Air Cooler,Kenstar,,3.0,Portable,4634
+TV,Mi,,5.0,Smart,17982
+Air Cooler,Voltas,,4.0,Window,10689
+TV,Mi,,4.0,Android,50279
+Air Cooler,Voltas,,5.0,Window,8764
+Air Cooler,Voltas,,4.0,Tower,9251
+Fridge,LG,424.0,4.0,Single Door,27399
+Washing Machine,Godrej,5.0,4.0,Semi-Automatic,21715
+Fridge,Godrej,473.0,3.0,Double Door,31555
+Washing Machine,LG,5.0,3.0,Semi-Automatic,28796
+Air Cooler,Symphony,,5.0,Tower,3302
+Air Conditioner,Voltas,,5.0,Inverter,46023
+Washing Machine,LG,9.0,5.0,Semi-Automatic,22556
+Washing Machine,Samsung,9.0,3.0,Semi-Automatic,36474
+Fridge,LG,288.0,3.0,Double Door,27345
+Washing Machine,LG,7.0,3.0,Semi-Automatic,26064
+Fridge,LG,144.0,5.0,Side-by-Side,29911
+Air Conditioner,Carrier,,3.0,Inverter,57636
+Washing Machine,IFB,6.0,3.0,Top Load,16893
+Washing Machine,IFB,5.0,4.0,Front Load,24283
+TV,Sony,,3.0,Smart,37037
+TV,Sony,,5.0,4K,38412
+Air Cooler,Voltas,,2.0,Window,11691
+Air Cooler,Voltas,,3.0,Window,7686
+TV,Samsung,,3.0,Android,26313
+Fridge,Whirlpool,463.0,3.0,Side-by-Side,17628
+Washing Machine,Whirlpool,6.0,3.0,Front Load,23121
+Fridge,Samsung,359.0,4.0,Single Door,15210
+Air Cooler,Kenstar,,3.0,Portable,6242
+Air Cooler,Kenstar,,,Tower,10102
+Fridge,LG,111.0,3.0,Side-by-Side,32713
+TV,Sony,,4.0,HD Ready,23383
+Air Conditioner,Carrier,,,Inverter,36140
+TV,TCL,,2.0,Android,35406
+Washing Machine,LG,5.0,,Front Load,12495
+Air Conditioner,Carrier,,4.0,Inverter,32135
+Air Cooler,Kenstar,,,Tower,9574
+Washing Machine,Samsung,7.0,3.0,Semi-Automatic,18004
+Fridge,LG,279.0,,Double Door,31159
+Air Conditioner,Daikin,,,Inverter,44981
+Air Cooler,Bajaj,,4.0,Window,9173
+TV,LG,,4.0,4K,31504
+Air Conditioner,Blue Star,,5.0,Split,35806
+Air Cooler,Voltas,,,Window,5829
+Washing Machine,IFB,6.0,,Semi-Automatic,16486
+Air Conditioner,Carrier,,2.0,Window,54430
+TV,Samsung,,5.0,Smart,17093
+Air Conditioner,Voltas,,3.0,Split,49749
+Air Cooler,Bajaj,,2.0,Window,10741
+Air Cooler,Symphony,,2.0,Portable,6053
+Air Cooler,Symphony,,2.0,Tower,6031
+Air Cooler,Kenstar,,4.0,Portable,4589
+Washing Machine,IFB,9.0,4.0,Front Load,24911
+TV,Samsung,,,4K,31632
+Air Conditioner,Carrier,,2.0,Split,45990
+Fridge,Whirlpool,340.0,,Side-by-Side,29322
+TV,Sony,,,Android,32436
+Washing Machine,IFB,10.0,3.0,Top Load,11413
+Air Conditioner,LG,,3.0,Window,26966
+Fridge,Voltas,478.0,5.0,Single Door,19022
+Washing Machine,Godrej,5.0,5.0,Top Load,15848
+Air Cooler,Bajaj,,4.0,Tower,4984
+Fridge,LG,304.0,4.0,Single Door,30160
+Air Cooler,Bajaj,,2.0,Portable,11197
+Air Conditioner,LG,,5.0,Split,41809
+Fridge,Whirlpool,300.0,5.0,Side-by-Side,29491
+Washing Machine,Whirlpool,10.0,,Semi-Automatic,14377
+Fridge,Godrej,471.0,2.0,Double Door,24820
+Fridge,LG,406.0,2.0,Side-by-Side,35447
+Air Conditioner,Daikin,,2.0,Split,44264
+Air Cooler,Blue Star,,2.0,Portable,7612
+TV,Sony,,4.0,Android,39175
+Washing Machine,IFB,9.0,2.0,Front Load,13623
+Fridge,LG,497.0,3.0,Side-by-Side,31431
+Fridge,Godrej,458.0,2.0,Double Door,25765
+Air Cooler,Bajaj,,,Window,4350
+TV,Mi,,,Smart,20925
+Washing Machine,Samsung,8.0,,Semi-Automatic,18841
+TV,Mi,,4.0,Smart,27657
+Air Cooler,Voltas,,3.0,Window,1835
+TV,Samsung,,,4K,50318
+Air Conditioner,Daikin,,,Split,26995
+Washing Machine,LG,7.0,,Top Load,25415
+Air Cooler,Kenstar,,2.0,Window,8080
+Air Conditioner,Carrier,,3.0,Split,27637
+TV,LG,,2.0,4K,42294
+Fridge,Voltas,108.0,2.0,Double Door,32749
+Fridge,Voltas,455.0,4.0,Double Door,31217
+TV,TCL,,4.0,4K,17971
+Fridge,Whirlpool,102.0,4.0,Double Door,35275
+Fridge,Voltas,359.0,5.0,Double Door,20978
+Fridge,Samsung,354.0,4.0,Side-by-Side,19944
+Washing Machine,Godrej,9.0,3.0,Front Load,28636
+Air Conditioner,Daikin,,,Split,54578
+Air Conditioner,Voltas,,2.0,Window,30397
+Air Cooler,Symphony,,2.0,Portable,2483
+Washing Machine,IFB,8.0,2.0,Front Load,18464
+TV,LG,,2.0,HD Ready,17364
+Air Cooler,Bajaj,,2.0,Portable,4138
+Air Cooler,Kenstar,,2.0,Portable,9029
+TV,Mi,,5.0,Android,42306
+Air Conditioner,LG,,5.0,Window,56444
+Fridge,Voltas,211.0,4.0,Single Door,17413
+Air Cooler,Blue Star,,4.0,Tower,10876
+TV,Mi,,,Smart,49538
+TV,TCL,,,Android,47187
+Air Cooler,Blue Star,,5.0,Portable,2663
+TV,LG,,4.0,Smart,36063
+Air Cooler,Blue Star,,,Tower,12612
+Fridge,Godrej,447.0,5.0,Side-by-Side,31231
+Air Cooler,Voltas,,4.0,Tower,4157
+Washing Machine,Godrej,9.0,2.0,Top Load,12684
+TV,Mi,,,4K,17084
+TV,Mi,,3.0,HD Ready,49619
+TV,TCL,,3.0,Android,47887
+Fridge,Samsung,333.0,3.0,Double Door,19197
+Washing Machine,Samsung,5.0,2.0,Top Load,21889
+Washing Machine,Samsung,10.0,,Semi-Automatic,23478
+Washing Machine,IFB,5.0,,Front Load,27003
+Fridge,Voltas,431.0,3.0,Side-by-Side,39391
+Air Conditioner,Blue Star,,,Window,26270
+Air Conditioner,Daikin,,3.0,Window,40758
+TV,LG,,,Smart,19522
+Air Cooler,Blue Star,,5.0,Window,4937
+Air Cooler,Blue Star,,3.0,Tower,5416
+Air Cooler,Bajaj,,3.0,Portable,3874
+Washing Machine,Whirlpool,7.0,5.0,Front Load,31032
+TV,Mi,,5.0,Android,25382
+Air Cooler,Blue Star,,4.0,Window,10014
+Fridge,LG,253.0,3.0,Single Door,35697
+Washing Machine,Godrej,5.0,2.0,Semi-Automatic,21463
+Air Cooler,Kenstar,,3.0,Portable,12859
+TV,LG,,2.0,Smart,22095
+TV,Sony,,3.0,4K,48501
+Washing Machine,LG,9.0,2.0,Semi-Automatic,20753
+Air Conditioner,Carrier,,2.0,Window,56465
+TV,LG,,2.0,Smart,28266
+Air Conditioner,LG,,4.0,Window,47096
+TV,LG,,5.0,4K,15411
+Washing Machine,Samsung,6.0,2.0,Front Load,12652
+Air Cooler,Bajaj,,2.0,Tower,2458
+TV,Samsung,,3.0,Smart,21868
+TV,Samsung,,2.0,Smart,39279
+Air Conditioner,Daikin,,5.0,Inverter,40152
+Washing Machine,Whirlpool,5.0,5.0,Top Load,14734
+Air Conditioner,Daikin,,,Window,57633
+Air Cooler,Voltas,,,Portable,12009
+TV,TCL,,,Smart,40676
+TV,Mi,,5.0,Android,29218
+TV,LG,,4.0,Smart,47840
+Air Cooler,Bajaj,,5.0,Window,8346
+Washing Machine,IFB,6.0,,Front Load,27812
+Air Cooler,Kenstar,,4.0,Portable,5005
+Air Cooler,Symphony,,2.0,Window,13142
+Washing Machine,Godrej,6.0,3.0,Semi-Automatic,33523
+Air Cooler,Bajaj,,3.0,Tower,13202
+Air Conditioner,Carrier,,,Split,49475
+Air Cooler,Voltas,,2.0,Tower,9335
+Air Cooler,Bajaj,,5.0,Tower,10872
+Fridge,Godrej,402.0,4.0,Double Door,25630
+Fridge,Voltas,287.0,2.0,Single Door,24829
+Air Cooler,Blue Star,,4.0,Portable,7710
+TV,TCL,,,Smart,24279
+Air Cooler,Bajaj,,5.0,Window,2911
+Air Conditioner,Blue Star,,5.0,Window,57612
+TV,LG,,3.0,HD Ready,19113
+TV,Samsung,,5.0,HD Ready,20145
+Fridge,Voltas,318.0,4.0,Side-by-Side,23165
+TV,Mi,,2.0,HD Ready,50383
+Fridge,Voltas,355.0,5.0,Single Door,23291
+Air Conditioner,Blue Star,,,Inverter,35918
+TV,Mi,,3.0,4K,42675
+Washing Machine,Whirlpool,6.0,5.0,Semi-Automatic,17927
+Washing Machine,Whirlpool,9.0,4.0,Front Load,24945
+Washing Machine,LG,10.0,3.0,Front Load,15992
+Fridge,Whirlpool,132.0,3.0,Side-by-Side,27302
+Fridge,Voltas,161.0,5.0,Side-by-Side,33726
+Fridge,Samsung,495.0,,Side-by-Side,24161
+Washing Machine,LG,7.0,2.0,Top Load,25566
+TV,Samsung,,5.0,HD Ready,30630
+Air Cooler,Blue Star,,,Portable,7189
+Air Cooler,Blue Star,,3.0,Window,11090
+Air Cooler,Blue Star,,,Portable,11792
+Air Cooler,Voltas,,,Portable,11296
+Washing Machine,Whirlpool,7.0,,Semi-Automatic,32851
+Fridge,Samsung,428.0,4.0,Side-by-Side,18744
+Air Conditioner,LG,,2.0,Split,45781
+Air Cooler,Symphony,,2.0,Portable,8536
+Air Cooler,Bajaj,,2.0,Window,3269
+TV,LG,,4.0,Smart,23477
+Air Conditioner,LG,,5.0,Split,40633
+Washing Machine,Samsung,10.0,3.0,Front Load,24976
+Washing Machine,Whirlpool,8.0,2.0,Semi-Automatic,27384
+TV,LG,,2.0,4K,44946
+Washing Machine,Whirlpool,10.0,4.0,Semi-Automatic,22956
+Air Conditioner,LG,,3.0,Split,41689
+Air Conditioner,Blue Star,,4.0,Window,40753
+Air Conditioner,Blue Star,,4.0,Window,33358
+Fridge,Whirlpool,355.0,2.0,Single Door,24717
+TV,TCL,,4.0,HD Ready,23686
+Washing Machine,LG,5.0,2.0,Top Load,19002
+Air Cooler,Voltas,,3.0,Portable,4856
+Fridge,Samsung,186.0,2.0,Double Door,39727
+Air Conditioner,Daikin,,,Window,25865
+Fridge,Godrej,154.0,5.0,Double Door,27003
+Air Cooler,Bajaj,,3.0,Window,7188
+Fridge,Whirlpool,480.0,,Double Door,16362
+Washing Machine,Samsung,5.0,,Front Load,17989
+Washing Machine,LG,8.0,4.0,Front Load,23569
+TV,TCL,,4.0,Android,33693
+Air Cooler,Blue Star,,2.0,Window,3061
+Air Cooler,Symphony,,2.0,Window,4292
+Air Cooler,Voltas,,3.0,Portable,6824
+TV,TCL,,5.0,Smart,21744
+Fridge,Godrej,229.0,5.0,Side-by-Side,25113
+Air Cooler,Symphony,,4.0,Tower,9245
+Air Cooler,Kenstar,,3.0,Portable,7024
+Air Conditioner,LG,,4.0,Split,53106
+Air Conditioner,Blue Star,,5.0,Window,29255
+Washing Machine,LG,5.0,,Top Load,18823
+Washing Machine,Samsung,6.0,5.0,Front Load,21588
+Fridge,LG,478.0,2.0,Single Door,39543
+Air Cooler,Kenstar,,2.0,Tower,6889
+Air Cooler,Bajaj,,5.0,Portable,11384
+Air Conditioner,Blue Star,,,Split,44210
+Air Cooler,Bajaj,,4.0,Tower,2519
+Washing Machine,Godrej,6.0,4.0,Front Load,20816
+TV,Mi,,3.0,4K,29311
+Air Cooler,Symphony,,2.0,Tower,9058
+Washing Machine,Samsung,5.0,,Semi-Automatic,21937
+Air Conditioner,LG,,3.0,Split,39678
+TV,Sony,,,HD Ready,50571
+Air Cooler,Bajaj,,,Tower,5307
+Fridge,Samsung,472.0,2.0,Double Door,23203
+TV,Sony,,,Android,14829
+TV,TCL,,,Android,39720
+Air Conditioner,Blue Star,,2.0,Split,50574
+Fridge,Godrej,467.0,,Single Door,31597
+Washing Machine,Godrej,5.0,4.0,Top Load,35003
+TV,Mi,,5.0,4K,39241
+Air Conditioner,Carrier,,4.0,Split,52685
+Washing Machine,Whirlpool,9.0,,Top Load,23654
+Fridge,Voltas,366.0,3.0,Side-by-Side,27810
+Air Conditioner,Carrier,,2.0,Window,30375
+TV,Sony,,,HD Ready,23519
+Fridge,Godrej,481.0,2.0,Double Door,33282
+TV,TCL,,4.0,Android,48706
+Fridge,Samsung,310.0,4.0,Side-by-Side,17635
+Washing Machine,Godrej,10.0,3.0,Top Load,25590
+Air Cooler,Bajaj,,4.0,Portable,5994
+Air Cooler,Symphony,,5.0,Window,11812
+Washing Machine,IFB,9.0,,Front Load,13779
+Air Conditioner,Daikin,,3.0,Split,28073
+Washing Machine,Samsung,5.0,4.0,Semi-Automatic,19297
+Fridge,Voltas,122.0,,Double Door,29883
+Air Cooler,Bajaj,,5.0,Window,11283
+Air Cooler,Symphony,,3.0,Window,11031
+Air Cooler,Blue Star,,,Window,6055
+TV,TCL,,5.0,Smart,19539
+Air Cooler,Kenstar,,,Tower,5364
+Air Conditioner,Carrier,,4.0,Window,36528
+Fridge,Voltas,231.0,4.0,Double Door,17150
+Washing Machine,Samsung,6.0,,Front Load,24088
+Fridge,LG,150.0,4.0,Double Door,25025
+Fridge,LG,485.0,2.0,Single Door,35643
+Air Conditioner,Blue Star,,3.0,Split,54848
+Air Cooler,Symphony,,3.0,Tower,7816
+Fridge,Voltas,291.0,2.0,Single Door,34646
+Air Conditioner,Blue Star,,,Split,30766
+Air Cooler,Blue Star,,3.0,Window,9547
+Washing Machine,IFB,7.0,,Semi-Automatic,26550
+Air Cooler,Symphony,,5.0,Window,9424
+TV,Sony,,4.0,Android,21780
+Fridge,Samsung,456.0,5.0,Double Door,39269
+Fridge,Voltas,444.0,4.0,Single Door,17769
+Fridge,LG,198.0,3.0,Double Door,30354
+TV,LG,,5.0,Smart,28502
+TV,Mi,,,Android,22293
+Washing Machine,IFB,10.0,5.0,Top Load,32813
+Fridge,Samsung,216.0,5.0,Double Door,32656
+TV,TCL,,,4K,19856
+Air Cooler,Blue Star,,5.0,Tower,1904
+TV,Mi,,3.0,4K,37955
+Washing Machine,Godrej,6.0,2.0,Top Load,20902
+Air Cooler,Bajaj,,5.0,Tower,12686
+TV,Samsung,,5.0,HD Ready,44110
+Fridge,LG,293.0,,Single Door,27029
+Air Cooler,Voltas,,5.0,Portable,5336
+Air Cooler,Bajaj,,5.0,Tower,10329
+Air Cooler,Kenstar,,,Window,9783
+Air Conditioner,Daikin,,,Split,57400
+TV,Mi,,5.0,4K,22544
+TV,TCL,,5.0,4K,23807
+Air Conditioner,Voltas,,3.0,Window,40634
+Air Conditioner,LG,,3.0,Window,46158
+Air Cooler,Bajaj,,3.0,Window,6813
+Air Cooler,Voltas,,2.0,Portable,9622
+Air Cooler,Blue Star,,4.0,Window,7246
+TV,Samsung,,2.0,Smart,37402
+Washing Machine,Whirlpool,7.0,2.0,Top Load,16512
+Fridge,Samsung,110.0,,Double Door,39032
+Washing Machine,Whirlpool,7.0,2.0,Front Load,35253
+Fridge,LG,197.0,2.0,Single Door,21736
+Air Cooler,Symphony,,5.0,Tower,6586
+TV,LG,,2.0,4K,18840
+Air Conditioner,Voltas,,5.0,Window,57604
+Air Cooler,Bajaj,,5.0,Portable,8059
+Washing Machine,Godrej,6.0,4.0,Top Load,24969
+Air Conditioner,LG,,,Split,27601
+Air Conditioner,Carrier,,4.0,Window,56904
+TV,Mi,,2.0,Smart,19179
+Air Conditioner,Carrier,,,Inverter,46764
+Air Conditioner,Daikin,,2.0,Window,35537
+Air Conditioner,Voltas,,3.0,Split,56612
+Air Conditioner,Daikin,,2.0,Window,59209
+Air Conditioner,Blue Star,,4.0,Inverter,51231
+Air Cooler,Bajaj,,,Window,8053
+TV,Sony,,4.0,Android,34961
+Fridge,Samsung,390.0,3.0,Single Door,37523
+Air Cooler,Voltas,,4.0,Window,8778
+Washing Machine,LG,6.0,5.0,Semi-Automatic,33392
+Fridge,Godrej,219.0,2.0,Double Door,22773
+TV,TCL,,2.0,Smart,25488
+Air Cooler,Bajaj,,,Window,9425
+Air Cooler,Symphony,,5.0,Window,9345
+Fridge,Samsung,304.0,,Double Door,34703
+Air Cooler,Kenstar,,,Tower,8383
+Washing Machine,Godrej,9.0,2.0,Top Load,27019
+Air Conditioner,LG,,,Window,40960
+Air Cooler,Bajaj,,,Window,8188
+Washing Machine,Whirlpool,5.0,5.0,Top Load,12282
+Air Cooler,Symphony,,,Portable,8344
+Air Cooler,Voltas,,5.0,Tower,12160
+Washing Machine,Samsung,5.0,5.0,Top Load,20327
+Fridge,LG,178.0,3.0,Side-by-Side,31095
+Air Conditioner,Daikin,,,Window,28885
+Fridge,LG,227.0,2.0,Double Door,27003
+Fridge,LG,448.0,2.0,Double Door,37885
+Washing Machine,LG,5.0,5.0,Front Load,24418
+Air Cooler,Voltas,,2.0,Tower,3923
+TV,Samsung,,2.0,4K,31523
+Washing Machine,Godrej,8.0,5.0,Front Load,30026
+TV,Mi,,3.0,Android,35210
+Fridge,Voltas,295.0,4.0,Side-by-Side,30697
+Fridge,Voltas,221.0,3.0,Single Door,37742
+TV,Mi,,2.0,HD Ready,18511
+TV,LG,,3.0,HD Ready,35373
+TV,Sony,,2.0,Android,28895
+Washing Machine,Godrej,5.0,,Semi-Automatic,16136
+Washing Machine,Samsung,9.0,2.0,Top Load,18441
+Air Cooler,Blue Star,,2.0,Tower,8327
+Air Cooler,Symphony,,4.0,Portable,5555
+Air Cooler,Kenstar,,4.0,Window,11110
+TV,TCL,,5.0,Android,44545
+Air Cooler,Kenstar,,4.0,Window,7958
+Washing Machine,LG,10.0,5.0,Top Load,26114
+Air Cooler,Blue Star,,4.0,Portable,11471
+Fridge,Godrej,199.0,2.0,Side-by-Side,40904
+Air Cooler,Blue Star,,,Window,12601
+TV,Samsung,,3.0,Android,29715
+Fridge,LG,303.0,4.0,Side-by-Side,39724
+Air Cooler,Symphony,,3.0,Portable,9127
+Fridge,LG,497.0,5.0,Side-by-Side,27148
+TV,Samsung,,4.0,Android,43063
+TV,Mi,,2.0,Android,28035
+Fridge,Godrej,195.0,2.0,Side-by-Side,23279
+Air Cooler,Bajaj,,5.0,Window,7349
+Fridge,Whirlpool,115.0,3.0,Single Door,32228
+Fridge,Whirlpool,121.0,5.0,Single Door,18642
+Air Conditioner,Voltas,,4.0,Window,46774
+Washing Machine,Whirlpool,8.0,4.0,Semi-Automatic,11887
+Air Cooler,Bajaj,,2.0,Window,7087
+Air Cooler,Kenstar,,4.0,Window,8873
+TV,Samsung,,4.0,HD Ready,40977
+Air Cooler,Voltas,,4.0,Window,9650
+Washing Machine,Godrej,10.0,3.0,Top Load,27270
+Air Conditioner,Daikin,,2.0,Split,54432
+Fridge,Samsung,492.0,4.0,Double Door,24911
+Washing Machine,IFB,5.0,4.0,Semi-Automatic,22449
+Air Cooler,Kenstar,,2.0,Portable,2801
+TV,TCL,,,Android,38169
+Air Conditioner,Carrier,,4.0,Split,37994
+Air Cooler,Voltas,,4.0,Window,9792
+Air Conditioner,Voltas,,,Split,56928
+Washing Machine,Godrej,5.0,4.0,Front Load,18784
+Washing Machine,Godrej,7.0,4.0,Semi-Automatic,16598
+Air Cooler,Bajaj,,4.0,Portable,8497
+Air Conditioner,Blue Star,,2.0,Split,55665
+Washing Machine,IFB,10.0,4.0,Top Load,22832
+Washing Machine,LG,5.0,5.0,Front Load,18628
+Fridge,LG,191.0,4.0,Double Door,18691
+Washing Machine,Godrej,5.0,,Top Load,25670
+Air Cooler,Voltas,,4.0,Portable,7509
+Fridge,LG,428.0,4.0,Single Door,36035
+Fridge,Voltas,347.0,4.0,Single Door,35454
+Fridge,Voltas,458.0,4.0,Single Door,15772
+Air Conditioner,Carrier,,,Inverter,25620
+Air Cooler,Blue Star,,,Tower,5925
+Fridge,LG,252.0,5.0,Single Door,25930
+TV,Samsung,,5.0,HD Ready,48871
+TV,TCL,,,Android,28831
+Washing Machine,Samsung,6.0,5.0,Semi-Automatic,22069
+Air Conditioner,Voltas,,4.0,Window,54726
+Washing Machine,IFB,10.0,,Top Load,21304
+Washing Machine,Godrej,8.0,3.0,Top Load,11359
+Air Conditioner,LG,,5.0,Inverter,48043
+TV,LG,,3.0,Android,30769
+Fridge,Samsung,401.0,3.0,Side-by-Side,31302
+TV,TCL,,,Smart,27099
+Air Conditioner,Blue Star,,5.0,Window,31865
+Air Cooler,Kenstar,,3.0,Window,7975
+Air Cooler,Symphony,,3.0,Portable,11865
+Washing Machine,Whirlpool,7.0,,Semi-Automatic,23236
+Washing Machine,LG,5.0,5.0,Top Load,22139
+Air Conditioner,Daikin,,4.0,Window,53728
+Air Conditioner,Voltas,,5.0,Split,38466
+Fridge,Whirlpool,280.0,5.0,Single Door,16196
+Fridge,Whirlpool,376.0,2.0,Side-by-Side,17946
+Washing Machine,LG,8.0,5.0,Semi-Automatic,23643
+Air Conditioner,Blue Star,,3.0,Split,46630
+Fridge,Whirlpool,305.0,2.0,Side-by-Side,25426
+Fridge,Voltas,310.0,2.0,Side-by-Side,17984
+Air Cooler,Bajaj,,3.0,Portable,5468
+Air Cooler,Symphony,,3.0,Tower,3979
+Fridge,Samsung,480.0,4.0,Double Door,27783
+TV,Samsung,,4.0,4K,37264
+Air Cooler,Symphony,,,Tower,12335
+Washing Machine,LG,8.0,3.0,Semi-Automatic,11418
+Air Cooler,Voltas,,2.0,Portable,8227
+Fridge,Whirlpool,441.0,2.0,Side-by-Side,29565
+Washing Machine,Samsung,6.0,2.0,Semi-Automatic,15122
+Washing Machine,Godrej,6.0,5.0,Top Load,12924
+Washing Machine,Samsung,8.0,4.0,Front Load,27157
+TV,Sony,,3.0,HD Ready,16118
+Fridge,Whirlpool,341.0,3.0,Single Door,23213
+Air Cooler,Blue Star,,3.0,Portable,4610
+TV,TCL,,2.0,HD Ready,38703
+Air Conditioner,LG,,5.0,Split,46706
+Air Cooler,Symphony,,2.0,Window,8802
+TV,Mi,,4.0,Smart,48008
+Air Conditioner,Voltas,,2.0,Inverter,51077
+Air Conditioner,Carrier,,2.0,Split,51757
+TV,LG,,,Android,15643
+Air Conditioner,Voltas,,2.0,Window,37861
+Air Conditioner,Daikin,,,Window,42690

@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>🏠 Home Appliance Budget Predictor</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>🏠 Smart Appliance Budget Estimator</h1>
+        <p class="subtitle">Select appliances to estimate your total budget easily</p>
+
+        <form method="post">
+            {% for i in range(1, 5) %}
+            <div class="card">
+                <h2>Appliance {{ i }}</h2>
+
+                <label>Type</label>
+                <select name="type{{ i }}">
+                    <option value="">-- Select --</option>
+                    <option>Fridge</option>
+                    <option>TV</option>
+                    <option>Washing Machine</option>
+                    <option>Air Conditioner</option>
+                    <option>Air Cooler</option>
+                </select>
+
+                <label>Brand</label>
+                <select name="brand{{ i }}">
+                    <option value="">-- Select --</option>
+                    <option>LG</option>
+                    <option>Samsung</option>
+                    <option>Whirlpool</option>
+                    <option>Voltas</option>
+                    <option>Godrej</option>
+                    <option>Daikin</option>
+                    <option>Sony</option>
+                    <option>Mi</option>
+                    <option>TCL</option>
+                    <option>IFB</option>
+                </select>
+
+                <label>Capacity (L or kg)</label>
+                <input type="number" name="capacity{{ i }}" placeholder="e.g., 260">
+
+                <label>Star Rating</label>
+                <select name="star{{ i }}">
+                    <option value="">-- Select --</option>
+                    <option>1</option>
+                    <option>2</option>
+                    <option>3</option>
+                    <option>4</option>
+                    <option>5</option>
+                </select>
+
+                <label>Feature</label>
+                <select name="feature{{ i }}">
+                    <option value="">-- Select --</option>
+                    <option>Smart</option>
+                    <option>Split</option>
+                    <option>Window</option>
+                    <option>Top Load</option>
+                    <option>Front Load</option>
+                    <option>Double Door</option>
+                    <option>Single Door</option>
+                    <option>Semi-Automatic</option>
+                    <option>Portable</option>
+                    <option>Side-by-Side</option>
+                    <option>Android</option>
+                    <option>Inverter</option>
+                </select>
+            </div>
+            {% endfor %}
+
+            <button type="submit">💰 Predict My Budget</button>
+        </form>
+
+        {% if prediction %}
+        <div class="result">
+            <h2>{{ prediction }}</h2>
+            <ul>
+                {% for appliance, price in breakdown %}
+                    <li>📦 <strong>{{ appliance['appliance_type'] }}</strong> ({{ appliance['brand'] }}) → ₹{{ price|round|int }}</li>
+                {% endfor %}
+            </ul>
+        </div>
+        {% endif %}
+    </div>
+</body>
+</html>
