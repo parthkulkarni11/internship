@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>🧠 Brain Tumor Detection</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background: linear-gradient(to right, #dbeafe, #e0f2fe);
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 480px;
+            margin: 80px auto;
+            padding: 30px;
+            background-color: rgba(255, 255, 255, 0.9);
+            border-radius: 14px;
+            box-shadow: 0 12px 28px rgba(0, 0, 0, 0.15);
+            text-align: center;
+            animation: fadeIn 1s ease-in-out;
+        }
+        h1 {
+            font-size: 28px;
+            margin-bottom: 10px;
+            color: #0f172a;
+        }
+        p.subtext {
+            font-size: 15px;
+            color: #475569;
+            margin-bottom: 25px;
+        }
+        input[type="file"] {
+            margin: 15px 0;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            width: 100%;
+        }
+        input[type="submit"] {
+            background-color: #0ea5e9;
+            border: none;
+            padding: 12px 30px;
+            color: white;
+            font-weight: bold;
+            font-size: 15px;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: background 0.3s ease;
+        }
+        input[type="submit"]:hover {
+            background-color: #0284c7;
+        }
+        .result {
+            margin-top: 30px;
+            padding: 20px;
+            border-radius: 10px;
+            font-size: 17px;
+        }
+        .result.good {
+            background-color: #dcfce7;
+            color: #065f46;
+            border-left: 6px solid #22c55e;
+        }
+        .result.bad {
+            background-color: #fee2e2;
+            color: #991b1b;
+            border-left: 6px solid #ef4444;
+        }
+        .recommendation {
+            margin-top: 15px;
+            font-style: italic;
+            font-size: 14px;
+            color: #555;
+        }
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(30px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🧠 Brain Tumor Detection</h1>
+        <p class="subtext">Upload an MRI scan and receive AI-powered analysis with a helpful recommendation.</p>
+
+        <form method="post" enctype="multipart/form-data">
+            <input type="file" name="image" accept="image/*" required><br>
+            <input type="submit" value="🔍 Predict">
+        </form>
+
+        {% if prediction %}
+            <div class="result {% if 'No Tumor' in prediction %}good{% else %}bad{% endif %}">
+                <strong>🧾 Diagnosis:</strong> {{ prediction }}
+                <div class="recommendation">
+                    {% if 'No Tumor' in prediction %}
+                        ✅ No signs of tumor detected. For peace of mind, consult a doctor if symptoms persist.
+                    {% else %}
+                        ⚠️ Tumor detected. We recommend seeking immediate medical consultation for further diagnosis.
+                    {% endif %}
+                </div>
+            </div>
+        {% endif %}
+    </div>
+</body>
+</html>
